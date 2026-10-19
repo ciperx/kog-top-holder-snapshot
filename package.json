@@ -1,0 +1,17 @@
+{
+  "name": "kog-top-holder-snapshot",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Group Token 2022 accounts by owner at a slot, apply exclusions, rank the top holders and hash the list.",
+  "bin": { "kog-snapshot": "./dist/cli.js" },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "test": "tsx --test test/*.test.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}

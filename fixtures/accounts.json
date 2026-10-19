@@ -1,0 +1,102 @@
+{
+ "accounts": [
+  {
+   "address": "2Bs9oTnsUadctLzGFsfPnaPc89NKEaEBB1ZJZByrAEuR",
+   "owner": "GRhocCpfcVmVKTjZEX9X2V9CNFTb7Ux4juPPhtM9Y8e",
+   "amount": "1000"
+  },
+  {
+   "address": "8JPz7c5K9E5PgxHprFdzLGq1TytfTKCvkQrzpT1DN9CW",
+   "owner": "GRhocCpfcVmVKTjZEX9X2V9CNFTb7Ux4juPPhtM9Y8e",
+   "amount": "2500"
+  },
+  {
+   "address": "6T74PEnw56vB4mcMfz32YLdLoyKjHSwKTGKg6GzNSEeu",
+   "owner": "GRhocCpfcVmVKTjZEX9X2V9CNFTb7Ux4juPPhtM9Y8e",
+   "amount": "500"
+  },
+  {
+   "address": "8ZSKFZ5N9poENSRiuw6PPGPwC4xphGTiNxNc1hRRNYJn",
+   "owner": "DGKwGPk4kFLj3qna3vdJWX4eHwb1GEPvubhAhP5zXkWm",
+   "amount": "4000"
+  },
+  {
+   "address": "53WaCLe9KLou1XWEQz4TjnbseMY5Y6GxpdM8jTfurgwP",
+   "owner": "DGKwGPk4kFLj3qna3vdJWX4eHwb1GEPvubhAhP5zXkWm",
+   "amount": "1000"
+  },
+  {
+   "address": "2vxXJ1mHKGiFhxUVDWMhst8vf4DYxGetfdY2oM5ieywM",
+   "owner": "9sJEp5egeeTPfNpZvpYE9X4r8wye5ACfKTTqP5FtmFhr",
+   "amount": "9000"
+  },
+  {
+   "address": "FTg7wyi2v7KJoTRyzfk2UinqBR6CGt1d3RXEedfp7oHK",
+   "owner": "F3nxubrTL9nTqiJgqDoXy889EDaoqfzqkpk2fvqDuGFP",
+   "amount": "9000"
+  },
+  {
+   "address": "9fjC8D5KTJgjR9oyWwsMoi4LJj2NPUe8oBJaNDaL9EYr",
+   "owner": "HRw9mRUaxRAo1Dm9524bhGEqQ5ZNkQMnMkRsHqW74KPj",
+   "amount": "10"
+  },
+  {
+   "address": "ExhqTU9Z4L2ydYcNS6AAamAdFau4qvuTYb5H9DWuzzea",
+   "owner": "HRw9mRUaxRAo1Dm9524bhGEqQ5ZNkQMnMkRsHqW74KPj",
+   "amount": "20"
+  },
+  {
+   "address": "6Mnv9JLvrmkmwckEc63q423nDiaWR1tnS39PczsFnzBJ",
+   "owner": "9fbt64APipnCQGKyY5PjZYfKw4HkAnESEmupLZhuUiwG",
+   "amount": "500000"
+  },
+  {
+   "address": "5gjZ1XF9zS96j7zEhyMhLVjPVujctMpVavEHkozTSkdL",
+   "owner": "3gLESRnfLgzAqu6PwGhBwsiBsnQ7BAtyWHhZ5zNcDPMF",
+   "amount": "250000"
+  },
+  {
+   "address": "8nYX8H3ERkBqbBhqahc6SXXDjszLv76yEQeGCmxVBJoJ",
+   "owner": "9zcSap14JaQ6kwUfUnKNGBEYN1nw1RG7osjnNqDCr1fR",
+   "amount": "100000"
+  },
+  {
+   "address": "AccN76dpsABF3C2sua7BNTpqToRV3cq6Ms9T2ZWNdttW",
+   "owner": "3SY7AJTLjMABScr9iT7vtuU1hADUio7Xe1HqVz7cTA3A",
+   "amount": "50000"
+  },
+  {
+   "address": "CKWS7cE1Q4pTE2QJLuW5Z8uKWWE7hJFejnQc13p3gpSh",
+   "owner": "GRhocCpfcVmVKTjZEX9X2V9CNFTb7Ux4juPPhtM9Y8e",
+   "amount": "0"
+  }
+ ],
+ "exclusions": [
+  {
+   "address": "9fbt64APipnCQGKyY5PjZYfKw4HkAnESEmupLZhuUiwG",
+   "kind": "curve",
+   "label": "bonding curve"
+  },
+  {
+   "address": "3gLESRnfLgzAqu6PwGhBwsiBsnQ7BAtyWHhZ5zNcDPMF",
+   "kind": "pool",
+   "label": "AMM pool"
+  },
+  {
+   "address": "9zcSap14JaQ6kwUfUnKNGBEYN1nw1RG7osjnNqDCr1fR",
+   "kind": "burn"
+  },
+  {
+   "address": "3SY7AJTLjMABScr9iT7vtuU1hADUio7Xe1HqVz7cTA3A",
+   "kind": "project",
+   "label": "project treasury"
+  }
+ ],
+ "owners": {
+  "alice": "GRhocCpfcVmVKTjZEX9X2V9CNFTb7Ux4juPPhtM9Y8e",
+  "bob": "DGKwGPk4kFLj3qna3vdJWX4eHwb1GEPvubhAhP5zXkWm",
+  "carol": "9sJEp5egeeTPfNpZvpYE9X4r8wye5ACfKTTqP5FtmFhr",
+  "dave": "F3nxubrTL9nTqiJgqDoXy889EDaoqfzqkpk2fvqDuGFP",
+  "erin": "HRw9mRUaxRAo1Dm9524bhGEqQ5ZNkQMnMkRsHqW74KPj"
+ }
+}
